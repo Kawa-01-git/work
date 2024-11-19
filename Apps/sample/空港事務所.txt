@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>県管理空港周辺の制限表面</name>
+    <Style id="red">
+      <IconStyle>
+        <Icon>
+          <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAySURBVDhPY/wPBAwwwMgIZ+JkIClnIqwatwqKNDMC3YxwNonOoMjmUc1DJrQZh2baBgCyKA4SoIdkGgAAAABJRU5ErkJggg==</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>空港事務所</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>那覇空港事務所（国）</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-0143</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>那覇市字安次嶺531-3</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>098-857-1101</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://ocab.mlit.go.jp/news/limit/#madoguchi</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>127.64583588,26.19583321</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣空港管理事務所&lt;br&gt;（新石垣空港）</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>907-0242</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>沖縄県石垣市字盛山222-75</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-87-0793</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°23′47″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>124°14′42″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>31.0m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>2,000m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>2,120m×300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td></td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>124.2451222,24.39645833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>906-0013</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>宮古島市平良下里1657-128</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-72-4127</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°46′58″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>125°17′42″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>42.8m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>2,000m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>2,120m×300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/my/miyako00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>125.294998168945,24.7827777862549</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久米島空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-3133</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>久米島町北原566-2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>098-985-2939</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>26°21′49″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>126°42′50″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>6.91m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>2,000m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>2,120m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/km/kumejima00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>126.713890075684,26.3636112213135</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>与那国空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>907-1801</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>与那国町与那国4350</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-87-2831</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°28′03″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>122°58′47″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>15.0m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>2,000m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>2,120m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/yn/yonaguni00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>122.979721069336,24.4675006866455</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波照間空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>907-1751</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>竹富町波照間志多阿原4566-27</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-85-8375</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°03′35″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>123°48′20″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>13.12m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>800m×25m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>920m×60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/ht/hateruma00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>123.803886413574,24.0583324432373</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多良間空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>906-0601</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>多良間村字仲筋2351-7</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-79-2637</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°39′14″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>124°40′31″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>10.3m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>1,500m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>1,620m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/tr/tarama00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>124.675277709961,24.6538887023926</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊江島空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>905-0502</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>伊江村東江上3992-2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-49-2001</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>26°43′21″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>127°47′13″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>72.5m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>1,500m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>1,620m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/ie/iejima00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>127.78694152832,26.7224998474121</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>粟国空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-3701</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>栗国村浜4551</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>098-988-2313</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>26°35′34″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>127°14′25″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>11.60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>800m×25m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>920m×60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/ag/aguni00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>127.240280151367,26.5927772521973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南大東空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-3803</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>南大東村旧東258</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>09802-2-2716</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>25°50′48″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>131°15′49″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>48.3m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>1,500m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>1,620m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/mn/minamidaito00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>131.263610839844,25.8466663360596</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北大東空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-3901</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>北大東村字南19-16</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>09802-3-4016</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>25°56′41″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>131°19′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>21.6m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>1,500m×45m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>1,620m×150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/kt/kitadaito00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>131.326950073242,25.9447231292725</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下地島空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>906-0507</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>宮古島市伊良部字佐和田1739</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>0980-78-4184</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>24°49′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>125°08′41″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>7.58m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>3,000m×60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>3,120m×300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/sm/simojijima00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>125.144721984863,24.8266677856445</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>慶良間空港管理事務所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >郵便番号</td><td>901-3312</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>座間味村字慶留間942</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >電話番号</td><td>098-987-2794</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点緯度</td><td>26°10′06″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点経度</td><td>127°17′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >標点標高</td><td>47.5m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >滑走路</td><td>800m×25m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >着陸帯</td><td>920m×60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >URL</td><td>http://www.pref.okinawa.jp/airport/index/kr/kerama00.htm</td></tr></table>]]></description>
+        <styleUrl>#red</styleUrl>
+        <Point>
+          <coordinates>127.293334960938,26.1683330535889</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

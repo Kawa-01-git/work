@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>県管理空港周辺の制限表面</name>
+    <Style id="green">
+      <LineStyle>
+        <color>99000000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>9900FF00</color>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>転移表面</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.30048889,24.79108472 125.2873675,24.776065 125.26915861,24.76038556 125.285015,24.77793611 125.29801,24.79313194 125.31072667,24.80792056 125.30048889,24.79108472 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>126.701021472222,26.340171 126.706325444444,26.3558553055556 126.713998138889,26.3736988333333 126.721906055556,26.38883325 126.716941388889,26.37267175 126.709268305556,26.3548283888889 126.701021472222,26.340171 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>126.710669666667,26.3543393888889 126.718342944444,26.3721826666667 126.726762722222,26.3871385 126.721286138889,26.3711555 126.713612472222,26.3533123611111 126.705807222222,26.338501 126.710669666667,26.3543393888889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.007280833333,24.4764773055556 122.989701055556,24.4704841944444 122.969478444444,24.4656198888889 122.954562805556,24.4634519166667 122.9686885,24.4683701944444 122.988911527778,24.4732346111111 123.007280833333,24.4764773055556 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>122.990077055556,24.4691744722222 123.008604972222,24.4718627222222 122.990866555556,24.4664240277778 122.970644527778,24.4615599166667 122.955703666667,24.4594818333333 122.969854638889,24.4643102222222 122.990077055556,24.4691744722222 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.254379472222,25.82529775 131.257546666667,25.8403870555556 131.261915472222,25.8544909722222 131.268260166667,25.8708473333333 131.264941472222,25.8537232777778 131.260579222222,25.8396451944444 131.254379472222,25.82529775 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.273389055556,25.869546 131.269408361111,25.8525897777778 131.265037611111,25.8384865277778 131.259076194444,25.8241061111111 131.26202,25.8392795555556 131.266382388889,25.8533575833333 131.273389055556,25.869546 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.3353,25.9660155555556 131.329551416667,25.951572 131.322591305556,25.9383747777778 131.313434611111,25.92470525 131.3197525,25.9395985277778 131.326712388889,25.9527958888889 131.3353,25.9660155555556 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.339702083333,25.9641173888889 131.33374225,25.9497651111111 131.32678175,25.9365680833333 131.317960944444,25.9227536944444 131.323943055556,25.9377919166667 131.330903277778,25.9509891111111 131.339702083333,25.9641173888889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.676218333333,24.6304281666667 124.672641972222,24.6461060277778 124.670628138889,24.6606215833333 124.669760444444,24.6768274166667 124.673716027778,24.6609749444444 124.675728555556,24.6464663333333 124.676218333333,24.6304281666667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.681151222222,24.6310120277778 124.677198222222,24.6466386388889 124.675186444444,24.6611431111111 124.674744888889,24.6773974166667 124.678274361111,24.6614963611111 124.680283555556,24.6470004444444 124.681151222222,24.6310120277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.781101916667,26.7172855833333 127.766437333333,26.70397425 127.778641,26.7190744166667 127.788886055556,26.7304394166667 127.800751277778,26.7415132777778 127.791347083333,26.7286504166667 127.781101916667,26.7172855833333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.80457375,26.7387343611111 127.794979861111,26.7260094166667 127.784734583333,26.7146448333333 127.770834416667,26.7007782777778 127.782273777778,26.71643375 127.792518972222,26.7277985 127.80457375,26.7387343611111 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.237937083333,26.5809443333333 127.236498416667,26.5888852222222 127.237264472222,26.5971591388889 127.240104527778,26.6057611111111 127.240416305556,26.5969232222222 127.239650027778,26.5886493333333 127.237937083333,26.5809443333333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.240250361111,26.5886045555556 127.241016666667,26.5968784444444 127.242944805556,26.6055491944444 127.2441685,26.5966424722222 127.243401944444,26.5883685833333 127.240527333333,26.5807510833333 127.240250361111,26.5886045555556 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.288374916667,26.1566322777778 127.288876277778,26.1651883888889 127.291371694444,26.1731831944444 127.295810361111,26.1802510833333 127.294404638889,26.1724115277778 127.2919095,26.16441825 127.288374916667,26.1566322777778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.291003277778,26.15596475 127.29248725,26.1642715 127.294982361111,26.1722645 127.298323666667,26.1796114444444 127.29801525,26.17149275 127.295520416667,26.1635012777778 127.291003277778,26.15596475 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.809564861111,24.0723796111111 123.80697425,24.0637148333333 123.803617277778,24.0559873333333 123.799410777778,24.0488635 123.800740305556,24.0570411111111 123.804097111111,24.0647686666667 123.809564861111,24.0723796111111 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.812186833333,24.07141125 123.810398722222,24.06245875 123.807041583333,24.0547313333333 123.801828833333,24.0479704722222 123.804164666667,24.0557851666667 123.807521638889,24.0635126666667 123.812186833333,24.07141125 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.148964305556,24.7965596666667 125.144220527778,24.8122219166667 125.136745916667,24.83955325 125.130562194444,24.8604695277778 125.139769305556,24.8402418888889 125.14724325,24.8129103888889 125.148964305556,24.7965596666667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.157022333333,24.7983959166667 125.150121194444,24.8135693055556 125.142648638889,24.840898 125.140352083333,24.8627003333333 125.145672083333,24.8415864722222 125.153144805556,24.81425475 125.157022333333,24.7983959166667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.259780194444,24.4222400555556 124.250047388889,24.4050067777778 124.2377995,24.3894955277778 124.2247235,24.37726325 124.235282944444,24.3911619722222 124.247530666667,24.4066734444444 124.259780194444,24.4222400555556 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.267270666667,24.4172790277778 124.267267748319,24.4172753468939 124.252444222222,24.4034194444444 124.267270666667,24.4172790277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.23161614272,24.372703749741 124.231613888889,24.372701 124.240196194444,24.3879083611111 124.23161614272,24.372703749741 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/7</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.267270666667,24.4172790277778 124.254960805556,24.4017527222222 124.242712638889,24.3862418055556 124.23161614272,24.372703749741 124.240196194444,24.3879083611111 124.252444222222,24.4034194444444 124.267270666667,24.4172790277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>3000m</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.267270666667,24.4172790277778 124.267267748319,24.4172753468939 124.252444222222,24.4034194444444 124.267270666667,24.4172790277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>転移表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>3000m</td></tr></table>]]></description>
+        <styleUrl>#green</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.23161614272,24.372703749741 124.231613888889,24.372701 124.240196194444,24.3879083611111 124.23161614272,24.372703749741 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>県管理空港周辺の制限表面</name>
+    <Style id="orange">
+      <LineStyle>
+        <color>99000000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>9900A0FF</color>
+        <fill>1</fill>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>進入表面</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/50</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.28737028,24.77607889 125.28979333,24.77434944 125.27611417,24.75236556 125.27496917,24.75052556 125.2654475,24.75721056 125.28737028,24.77607889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/50</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.30277028,24.78948472 125.30048417,24.79107556 125.3150525,24.81500417 125.32440278,24.80839361 125.30277028,24.78948472 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>126.724998944444,26.3988992777778 126.732008027778,26.3964533888889 126.718342944444,26.3721826666667 126.716941388889,26.37267175 126.724998944444,26.3988992777778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>126.709268305556,26.3548283888889 126.710669666667,26.3543393888889 126.702618194444,26.3281110277778 126.695612694444,26.3305555833333 126.709268305556,26.3548283888889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.017570888889,24.4799840555556 123.019449583333,24.4734350833333 122.990077055556,24.4691744722222 122.989701055556,24.4704841944444 123.017570888889,24.4799840555556 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>122.969478444444,24.4656198888889 122.969854638889,24.4643102222222 122.941992138889,24.4548017777778 122.940109805556,24.4613496944444 122.969478444444,24.4656198888889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.270143555556,25.8805300277778 131.277349583333,25.87870125 131.266382388889,25.8533575833333 131.264941472222,25.8537232777778 131.270143555556,25.8805300277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.260579222222,25.8396451944444 131.26202,25.8392795555556 131.256821638889,25.8124723055556 131.249619277778,25.8143000833333 131.260579222222,25.8396451944444 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.339744916667,25.9771809444444 131.346505305556,25.9742658333333 131.330903277778,25.9509891111111 131.329551416667,25.951572 131.339744916667,25.9771809444444 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>131.322591305556,25.9383747777778 131.323943055556,25.9377919166667 131.313756444444,25.9121816666667 131.30699875,25.91509525 131.322591305556,25.9383747777778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.667093444444,24.6875136388889 124.674447166667,24.6883545555556 124.675186444444,24.6611431111111 124.673716027778,24.6609749444444 124.667093444444,24.6875136388889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.675728555556,24.6464663333333 124.677198222222,24.6466386388889 124.683906388889,24.62011825 124.676559472222,24.6192569444444 124.675728555556,24.6464663333333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.807980972222,26.7513994444444 127.813840833333,26.7471391666667 127.792518972222,26.7277985 127.791347083333,26.7286504166667 127.807980972222,26.7513994444444 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>150m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/40</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.781101916667,26.7172855833333 127.782273777778,26.71643375 127.765650111111,26.6936815 127.759791138889,26.6979398333333 127.781101916667,26.7172855833333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.239455027778,26.6241669166667 127.246961333333,26.6236069166667 127.241016666667,26.5968784444444 127.240416305556,26.5969232222222 127.239455027778,26.6241669166667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.239650027778,26.5886493333333 127.240250361111,26.5886045555556 127.241211055556,26.5613607222222 127.233743666667,26.5619812777778 127.239650027778,26.5886493333333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.299230472222,26.1993206666667 127.306453111111,26.1974825277778 127.294982361111,26.1722645 127.294404638889,26.1724115277778 127.299230472222,26.1993206666667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>127.2919095,26.16441825 127.29248725,26.1642715 127.287680361111,26.1373597222222 127.280460027778,26.1391934444444 127.2919095,26.16441825 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.814836777778,24.09000875 123.821680388889,24.0874812222222 123.807521638889,24.0635126666667 123.80697425,24.0637148333333 123.814836777778,24.09000875 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>60m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>750m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/20</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>123.803617277778,24.0559873333333 123.804164666667,24.0557851666667 123.796306333333,24.0294905833333 123.789465305556,24.0320170555556 123.803617277778,24.0559873333333 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/50</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.128257555556,24.8655316388889 125.13977725,24.8681565833333 125.142648638889,24.840898 125.139769305556,24.8402418888889 125.128257555556,24.8655316388889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td>1/50</td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>125.14724325,24.8129103888889 125.150121194444,24.8135693055556 125.161624888889,24.7882751111111 125.150112277778,24.7856515833333 125.14724325,24.8129103888889 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td></td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.263788583333,24.4293359166667 124.273376638889,24.4229854722222 124.267267748319,24.4172753468939 124.267270666667,24.4172790277778 124.252444222222,24.4034194444444 124.250047388889,24.4050067777778 124.263788583333,24.4293359166667 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>進入表面</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >分類</td><td>進入表面</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >長さ</td><td>3000m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >内側底辺</td><td>300m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >外側底辺</td><td>1200m</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >勾配</td><td></td></tr></table>]]></description>
+        <styleUrl>#orange</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>124.2377995,24.3894955277778 124.240196194444,24.3879083611111 124.231613888889,24.372701 124.23161614272,24.372703749741 124.226465472222,24.3635763055556 124.216879138889,24.3699233611111 124.2377995,24.3894955277778 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
